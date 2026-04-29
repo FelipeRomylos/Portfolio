@@ -44,15 +44,15 @@ I also write sociological and political essays, connecting theory and contempora
 📚 Essays and articles: **https://feliperomylos.substack.com**
 
 <a href="https://feliperomylos.substack.com/p/o-direito-ao-voto-e-a-democracia">
-  <img src="assets/composed (4).png" width="250">
+  <img src="assets/composed (4).png" width="120">
 </a>
 
 <a href="https://feliperomylos.substack.com/p/o-paternalismo-liberal-e-a-disputa">
-  <img src="assets/composed (1).png" width="250">
+  <img src="assets/composed (1).png" width="120">
 </a>
 
 <a href="https://feliperomylos.substack.com/p/o-que-e-populismo">
-  <img src="assets/composed (2).png" width="250">
+  <img src="assets/composed (2).png" width="120">
 </a>
 ---
 

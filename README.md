@@ -43,6 +43,9 @@ I also write sociological and political essays, connecting theory and contempora
 
 📚 Essays and articles: **[Substack link here]**
 
+<a href="https://feliperomylos.substack.com/p/o-direito-ao-voto-e-a-democracia">
+  <img src="assets/composed (4).png" width="250">
+</a>
 ---
 
 ## 🌍 Languages

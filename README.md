@@ -41,50 +41,60 @@ I enjoy working with survey data, building indicators, and transforming complex 
 ---
 
 ## ✍️ Writing & Essays
-I also write sociological and political essays, connecting theory and contemporary issues.
+I explore sociological and political themes, connecting theory with contemporary issues.
+
 > **Note:** The following essays are written in **Portuguese**.
 
 ---
 
-<div align="center">
+<p align="center">
+  <ins><b>The Right to Vote and Elitist Democracy</b></ins><br>
+  <i>(O direito ao voto e a democracia elitista)</i>
+</p>
 
-### The right to vote and elitist democracy
-*(O direito ao voto e a democracia elitista)*
+This essay examines the vital importance of expanding the suffrage against the resurgence of elitist democratic theories. Drawing on the works of **Adam Przeworski** and **Hannah Pitkin**, I discuss how representation and deliberative democracy serve as essential tools to counter the "competent minority" myth, ensuring that political power remains grounded in popular sovereignty.
 
-This essay examines the vital importance of expanding the suffrage against the resurgence of elitist democratic theories. Drawing on the works of Adam Przeworski and Hannah Pitkin, I discuss how representation and deliberative democracy serve as essential tools to counter the "competent minority" myth, ensuring that political power remains grounded in popular sovereignty.
-
-<a href="https://feliperomylos.substack.com/p/o-direito-ao-voto-e-a-democracia">
-  <img src="assets/voto.jpg">
-</a>
+<p align="center">
+  <a href="https://feliperomylos.substack.com/p/o-direito-ao-voto-e-a-democracia">
+    <img src="assets/voto.jpg">
+  </a>
+</p>
 
 ---
 
-### Liberal paternalism and the struggle for the common good
-*(O paternalismo liberal e a disputa pelo bem comum)*
+<p align="center">
+  <ins><b>Liberal Paternalism and the Struggle for the Common Good</b></ins><br>
+  <i>(O paternalismo liberal e a disputa pelo bem comum)</i>
+</p>
 
 I explore the paradox of how discourses centered on individual liberty can devolve into a form of liberal paternalism. By analyzing some historical trends that mandate specific institutions as prerequisites for freedom, I argue for a reframing of liberty that connects the "good life" with the pursuit of a collective common good and civic virtue.
 
-<a href="https://feliperomylos.substack.com/p/o-paternalismo-liberal-e-a-disputa">
-  <img src="assets/paternalismo.jpg" >
-</a>
+<p align="center">
+  <a href="https://feliperomylos.substack.com/p/o-paternalismo-liberal-e-a-disputa">
+    <img src="assets/paternalismo.jpg">
+  </a>
+</p>
 
 ---
 
-### What is populism?
-*(O que é populismo?)*
+<p align="center">
+  <ins><b>What is Populism?</b></ins><br>
+  <i>(O que é populismo?)</i>
+</p>
 
-In this article, I challenge the overused and often misunderstood label of "populism" in contemporary political discourse. Grounded in the post-structuralist perspective of Ernesto Laclau and Chantal Mouffe, I analyze the conceptual construction of the "people" and apply this framework to understand the rise of Bolsonarismo as a specific political logic rather than a mere pathology.
+In this article, I challenge the overused and often misunderstood label of "populism" in contemporary political discourse. Grounded in the post-structuralist perspective of **Ernesto Laclau** and **Chantal Mouffe**, I analyze the conceptual construction of the "people" and apply this framework to understand the rise of **Bolsonarismo** as a specific political logic rather than a mere pathology.
 
-<a href="https://feliperomylos.substack.com/p/o-que-e-populismo">
-  <img src="assets/populismo.jpg">
-</a>
+<p align="center">
+  <a href="https://feliperomylos.substack.com/p/o-que-e-populismo">
+    <img src="assets/populismo.jpg">
+  </a>
+</p>
 
-<br>
+---
 
-</div>
-
-📚 **Check out all my articles on [Substack](https://feliperomylos.substack.com)**
-
+<p align="center">
+  📚 <b>Check out all my articles on <a href="https://feliperomylos.substack.com">Substack</a></b>
+</p>
 ---
 
 ## 🌍 Languages

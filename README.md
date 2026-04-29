@@ -4,11 +4,13 @@
 I’m a Brazilian student based in Spain, currently pursuing a **Double Degree in Political Science and Sociology** at **Universidad Carlos III de Madrid (UC3M)**.
 
 My main interests are **quantitative sociology**, **public opinion research** and **political behavior**, with a focus on how social attitudes and institutions shape political outcomes.  
+
 I enjoy working with survey data, building indicators, and transforming complex datasets into clear insights and visualizations.
 
 ---
 
 ## 🔍 Areas of Interest
+
 - Public opinion & survey analysis (CIS, ESS, WVS)
 - Trust in institutions, ideology, and political culture
 - Authoritarian attitudes and social cohesion
@@ -44,15 +46,15 @@ I also write sociological and political essays, connecting theory and contempora
 📚 Essays and articles: **https://feliperomylos.substack.com**
 
 <a href="https://feliperomylos.substack.com/p/o-direito-ao-voto-e-a-democracia">
-  <img src="assets/composed (4).png" width="120">
+  <img src="">
 </a>
 
 <a href="https://feliperomylos.substack.com/p/o-paternalismo-liberal-e-a-disputa">
-  <img src="assets/composed (1).png" width="120">
+  <img src="">
 </a>
 
 <a href="https://feliperomylos.substack.com/p/o-que-e-populismo">
-  <img src="assets/composed (2).png" width="120">
+  <img src="">
 </a>
 ---
 
@@ -64,5 +66,5 @@ I also write sociological and political essays, connecting theory and contempora
 ---
 
 ## 📫 Contact
-- LinkedIn: *(your link here)*
-- Email: *(your email here)*
+- LinkedIn: *www.linkedin.com/in/felipe-romylos-robotton-bethanis-6070a628b*
+- Email: *frrbethanis@gmail.com*

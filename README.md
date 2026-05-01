@@ -38,6 +38,14 @@ I enjoy working with survey data, building indicators, and transforming complex 
 ## 📌 Featured Projects
 *(Selected work will be added soon. Some projects are based on university research and personal studies.)*
 
+>**_Note:_** Click on the image for full overview
+
+<p align="center">
+  <a href="https://github.com/FelipeRomylos/Social-democracy-PT-NO">
+    <img src="assets/sdt.jpg">
+  </a>
+</p>
+
 ---
 
 ## ✍️ Writing & Essays

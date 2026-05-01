@@ -42,7 +42,7 @@ I enjoy working with survey data, building indicators, and transforming complex 
 
 <p align="center">
   <a href="https://github.com/FelipeRomylos/Social-democracy-PT-NO">
-    <img src="assets/sdt.jpg">
+    <img src="assets/sdt.jpg" width="1000">
   </a>
 </p>
 
@@ -113,5 +113,5 @@ In this article, I challenge the overused and often misunderstood label of "popu
 ---
 
 ## 📫 Contact
-- LinkedIn: *www.linkedin.com/in/felipe-romylos-robotton-bethanis-6070a628b*
+- LinkedIn: *[Felipe Romylos Robotton Bethanis](www.linkedin.com/in/felipe-romylos-robotton-bethanis-6070a628b)*
 - Email: *frrbethanis@gmail.com*

@@ -113,5 +113,5 @@ In this article, I challenge the overused and often misunderstood label of "popu
 ---
 
 ## 📫 Contact
-- LinkedIn: *[Felipe Romylos Robotton Bethanis](www.linkedin.com/in/felipe-romylos-robotton-bethanis-6070a628b)*
+- LinkedIn: <b><a href="https://www.linkedin.com/in/felipe-romylos-robotton-bethanis-6070a628b">Felipe Romylos Robotton Bethanis</a></b>
 - Email: *frrbethanis@gmail.com*

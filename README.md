@@ -48,7 +48,7 @@ I enjoy working with survey data, building indicators, and transforming complex 
 
 <p align="center">
   <a href="https://github.com/FelipeRomylos/Multiparty-disaffection-Spain-2002-2023-">
-    <img src="" width="1000">
+    <img src="assets/politicaldis.png" width="1000">
   </a>
 </p>
 
